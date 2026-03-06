@@ -12,8 +12,8 @@ export function Header() {
         <div className="h-8 w-px bg-border/50" />
         <div>
           <h1 className="text-xl font-semibold tracking-tight">
-            <span className="text-primary">Wizard</span>{' '}
-            <span className="text-foreground/80">Curvelo</span>
+            <span className="text-primary">Colégio Excelência</span>{' '}
+            <span className="text-foreground/80">Montes Claros</span>
           </h1>
           <p className="text-xs text-muted-foreground">Dashboard de Métricas Meta Ads</p>
         </div>
